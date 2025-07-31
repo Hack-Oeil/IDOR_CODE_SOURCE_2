@@ -4,11 +4,11 @@
 **ID** 50 dans **les CTFs de Cyrhades**
 
 Dans ce CTF vous devez trouver le mot de passe de l'administrateur et vous connecter avec son compte.
-Mais cette fois le mot de passe est hashé.
+Mais cette fois le mot de passe est hashé avec un algo adapté au password.
 
 
 ## Aperçu
-![infos/capture.jpg](infos/capture.jpg)
+![presentation/assets/images/capture.jpg](presentation/assets/images/capture.jpg)
 
 
 
